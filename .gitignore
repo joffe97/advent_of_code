@@ -1,1 +1,4 @@
 **/target
+**/.vscode
+**/zig-cache
+**/input*_test*
